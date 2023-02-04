@@ -1,0 +1,16 @@
+.wrapper {
+    height:100vh;
+
+}
+.Login {
+    width: 300px;
+    padding: 20px;
+    height: min-content;
+    border-radius: 5px;
+    color: rgb(22, 21, 22);
+    background-color: rgb(232, 232, 233);
+
+}
+.mb-3{
+    text-align: center;
+}
